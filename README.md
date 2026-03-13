@@ -1,4 +1,4 @@
-# Filesystem-Management-tools
+# Zeta-Utilities
 This public resiprosity will provide basic scripts to manage file systems in Windows and increase productivity. 
 Copy the both .py and .bat to the directory you want to work on.
 1. Word file update date and footer 
@@ -8,5 +8,7 @@ To make a copy of your important word file for each day you want to modify and u
 4. CLI input tools that can be used in creating any CLI applications
 5. join and lit big files into parts to easiy move across internet
 6. Webp to jpg
+7. color changer tool for images in python
 # To be completed
 - make files usable in the parent directory of this repo
+- make a UI
